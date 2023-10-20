@@ -39,7 +39,10 @@ public class StudentDetails {
 		//finding average
 		float average=total/5;
 		System.out.println("Average:"+average);
-				
+		//finding average
+			//	float average=total/5;
+				//System.out.println("Average:"+average);
+						
 		
 		
 	
