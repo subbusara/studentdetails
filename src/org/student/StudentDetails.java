@@ -6,7 +6,7 @@ public class StudentDetails {
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter Student ID");
 		long studentId=scan.nextLong();
-		System.out.println("Student Id Number:"+studentId);
+		System.out.println("Student Id Number:"+studentIdNumber);
 		
 		System.out.println("Enter your Name");
 		String studentName=scan.next();
