@@ -31,10 +31,12 @@ public class StudentDetails {
 		System.out.println("Enter your mark5");
 		byte mark5=scan.nextByte();
 		System.out.println("mark5:"+mark5);
+		
 		//finding Total
 		
 		long total=mark1+mark2+mark3+mark4+mark5;
 		System.out.println("Total:"+total);
+	    
 		
 		//finding average
 		float average=total/5;
